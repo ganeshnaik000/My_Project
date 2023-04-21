@@ -1,0 +1,253 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.bg-container {
+    background-color: #de599b;
+}
+
+.profile-container {
+    border: 3px solid black;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+}
+
+.profile-icon {
+    height: 100%;
+    width: 100%;
+}
+
+.profile-icon-heading {
+    font-family: "Roboto";
+    font-size: 15px;
+    font-weight: 500;
+    color: black;
+    padding-top: 20px;
+
+
+}
+
+.profile-name {
+    font-family: "Roboto";
+    font-size: 30px;
+    font-weight: 600;
+    color: black;
+    width: 160px;
+    text-align: left;
+}
+
+.art-title {
+    font-family: "Roboto";
+    font-size: 15px;
+    font-weight: 500;
+    color: black;
+    text-align: left;
+}
+
+.profile-details-container {
+    border: 2px solid black;
+    border-right: none;
+    border-top: none;
+    border-bottom: none;
+
+}
+
+.profile-details-container {
+    text-align: left;
+}
+
+.profile-experience {
+    font-family: "Roboto";
+    font-size: 10px;
+    font-weight: 500;
+    color: black;
+}
+
+.profile-details {
+    font-family: "Roboto";
+    font-size: 10px;
+    font-weight: 500;
+    color: black;
+}
+
+
+.hr-line {
+    width: 90%;
+    margin-left: 60px;
+    border: 2px solid black;
+}
+
+.work-icon {
+    font-size: 65px;
+    margin-right: 40px;
+}
+
+.year-pass-out {
+    font-family: "Roboto";
+    font-size: 14px;
+    font-weight: 500;
+    color: black;
+    margin-bottom: 26px;
+    width: 80px;
+}
+
+.creativity-ideas-description {
+    font-family: "Roboto";
+    font-size: 10px;
+    font-weight: 600;
+    color: black;
+    text-align: left;
+    margin-left: 14px;
+}
+
+.working-description {
+    font-weight: 500;
+}
+
+.skills-container {
+    border: 3px solid black;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+}
+
+.skill-icon {
+    font-size: 55px;
+    margin-right: 40px;
+}
+
+.no-of-skills {
+    font-family: "Roboto";
+    font-size: 10px;
+    font-weight: 500;
+    color: black;
+    margin-left: 14px;
+    text-align: left;
+}
+
+.dot {
+    height: 10px;
+    width: 10px;
+    background-color: black;
+    border-radius: 50%;
+    display: inline-block;
+    margin-left: 70px;
+}
+
+.dot-1 {
+    margin-left: 8px;
+}
+
+.dot-2 {
+    margin-left: 15px;
+}
+
+.dot-3 {
+    margin-left: 42px;
+}
+
+.dot-4 {
+    margin-left: 14px;
+}
+
+.dot-5 {
+    margin-left: 46px;
+}
+
+.awards-container {
+    margin-left: 25px;
+    border: 3px solid black;
+    border-top: none;
+    border-right: none;
+    border-bottom: none;
+}
+
+.year-of-awards {
+    margin-left: 30px;
+    font-size: 13px;
+    font-weight: 500;
+}
+
+.awards-winner {
+    font-family: "Roboto";
+    font-size: 12px;
+    font-weight: 600;
+    color: black;
+
+}
+
+.interest-container {
+    border: 3px solid black;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+}
+
+.bulb-icon {
+    height: 90px;
+    width: 90px;
+}
+
+.icon-container {
+    height: 80px;
+    width: 80px;
+    background-color: #3e5296;
+    border-radius: 50%;
+    display: inline-block;
+    margin-left: 30px;
+}
+
+.icon {
+    font-size: 40px;
+    text-align: center;
+    padding-left: 17px;
+    padding-right: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.bi-pencil {
+    margin-top: 22px;
+    margin-left: 22px;
+}
+
+.movie-icon {
+    height: 65px;
+    width: 65px;
+    padding-left: 17px;
+    padding-top: 16px;
+}
+
+.music-icon {
+    height: 65px;
+    width: 65px;
+    padding-left: 17px;
+    padding-top: 16px;
+}
+
+.education-icon {
+    height: 70px;
+    width: 70px;
+}
+
+.education-year {
+    font-family: "Roboto";
+    font-size: 13px;
+    font-weight: 500;
+    margin-left: 20px;
+    padding-top: 15px;
+}
+
+.education-college {
+    font-family: "Roboto";
+    font-size: 13px;
+    font-weight: 600;
+    margin-left: 13px;
+    text-align: left;
+}
+
+.education-description {
+    font-weight: 500;
+    margin-left: 50px;
+    padding-left: 25px;
+
+}
